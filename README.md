@@ -1,2 +1,3 @@
-# Hi! My name is Irina Arakcheeva ![](https://emojis.sh/emoji/smiling-girl-with-laptop-1C9qi8N00V) 
+# Hi! 👋 My name is Irina Arakcheeva 👱 
 ## C++ Developer and Web Developer
+![](https://abit.etu.ru/assets/images/dovuz/shkola-tehnopark-v-kudrovo/laboratoriya-bionika.jpg)
